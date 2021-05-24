@@ -9,7 +9,7 @@ export function getFilmsFromApiWithText(text, page) {
 
 export async function getFilmFromApiById(idFilm) {
     const url = 'https://api.themoviedb.org/3/movie/' + idFilm + '?api_key=' + API_TOKEN + '&language=fr';
-    console.log(url);
+
 
     return fetch(url)
         .then((response) => response.json())
