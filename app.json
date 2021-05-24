@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyFirstAppliMobile",
-    "slug": "MyFirstAppliMobile",
+    "name": "MyMovies",
+    "slug": "MyMovies",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
